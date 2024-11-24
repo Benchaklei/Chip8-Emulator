@@ -1,3 +1,6 @@
+# Disclaimer:
+**This project is experimental and may contain bugs. Use at your own risk. The author(s) are not responsible for any damages or losses resulting from the use of this software.**
+
 # Chip8 machine interpreter/emulator
 
 This is a Chip8 emulator I wrote in C with the help of Queso Fuego's Youtube chip8 series:
